@@ -91,10 +91,6 @@ Navigate to the directory containing the scripts.
 Run the desired script using the command, or run the script_manager.py
 ![image](https://github.com/user-attachments/assets/8d8913a2-72b9-49c1-818e-2f61aac5b8c5)
 
-```
-python script_name.py
-```
-
 ## Contributing
 Feel free to fork this repository and submit pull requests. Any contributions, whether they are bug fixes, feature additions, or improvements to the scripts, are welcome.
 
