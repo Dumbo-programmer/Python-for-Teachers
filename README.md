@@ -88,7 +88,9 @@ Clone this repository or download the scripts individually.
 
 ## Usage
 Navigate to the directory containing the scripts.
-Run the desired script using the command
+Run the desired script using the command, or run the script_manager.py
+![image](https://github.com/user-attachments/assets/8d8913a2-72b9-49c1-818e-2f61aac5b8c5)
+
 ```
 python script_name.py
 ```
